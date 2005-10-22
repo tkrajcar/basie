@@ -9,7 +9,13 @@
 
 	<!--- Content --->
 <h3>We are building a new internet broadcasting solution.</h3>
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec turpis orci, lobortis at, egestas eu, varius fermentum, risus. Mauris eleifend diam eu dui. Aliquam vel nunc quis turpis placerat lobortis. Curabitur commodo arcu. Vivamus scelerisque, justo quis bibendum mattis, augue tortor egestas magna, sit amet pellentesque ante leo et ante. Ut vitae orci. Ut ut ante. Vestibulum faucibus fermentum tellus. Integer nibh diam, rutrum vel, consequat a, vehicula ac, dolor. Suspendisse potenti. Curabitur ultricies neque ac odio. Curabitur sollicitudin tincidunt urna. Etiam sem. Phasellus vitae tellus. Nam nisi. Mauris molestie. Sed aliquam ante vel turpis. Nulla quis nibh ac elit auctor fringilla. Fusce eu sapien faucibus urna sagittis interdum.
+<strong>Basie</strong> is a next-generation application designed for
+professional internet DJs, including a media library, automatic playlist generation,
+playback of multiple files at once, voice-over support, and more.
+<Br/><br/>
+Basie is currently in the planning stage of development, and so much of this
+site is currently under construction. Until more information is available,
+you should probably visit <a href="http://www.sourceforge.net/projects/basie">Basie's SourceForge project page</a> for the latest information.
 
 <?php
 	include 'include/prenews.php';		
